@@ -30,5 +30,5 @@ Currently learning how to build games using **Unity** and **C#**. I enjoy turnin
 </p>
 
 ## 📫 Contact Me
-- Discord: `Alperen#1234`
-- Email: `yourmail@example.com` *(update this to your actual mail)*
+- Discord: `xalperen`
+- Email: ``
