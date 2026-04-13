@@ -1,34 +1,23 @@
-<h1 align="center">Hi there, I'm Alperen 👋</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi, I'm Alperen
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iAlperenS&color=green&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=iAlperenS&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/iAlperenS?label=FOLLOWERS&style=flat-square&logo=github&color=blueviolet" />
 </p>
 
-## 🧑‍💻 About Me
-I'm **Alperen**, a passionate developer diving into the world of software and game development.  
-Currently learning how to build games using **Unity** and **C#**. I enjoy turning ideas into playable experiences!
-
-## 🧠 Tech Stack
-- 🐍 **Python** – Automation, scripting, bots, APIs.
-- ⚙️ **C# (Unity)** – Game development, gameplay mechanics, UI systems.
-- 🌐 **JavaScript** – Web applications, user interactions, browser-based games.
-- 🛢️ **SQL** – Database handling and queries.
-
-> 🕹️ *Fun fact:* My first ever scripting experience was with **AutoHotkey (AHK)** — macros and keyboard automation stuff!  
-> I don't use it much anymore, but it helped me get into programming.
-
-## 🎮 Game Development Journey
-- 🔧 Currently learning **Unity** and building small 2D/3D games.
-- 🎓 Exploring topics like physics, animations, UI, and input systems.
-- 🧪 Experimenting with game ideas and mechanics as I grow.
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iAlperenS&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAlperenS&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=py,cs,js,unity,git,visualstudio,vscode,mysql" />
 </p>
 
-## 📫 Contact Me
-- Discord: `xalperen`
-- Email: ``
+<p align="center">
+  <a href="https://discord.com/users/xalperen">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://alperen.shop">
+    <img src="https://img.shields.io/badge/alperen.shop-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
